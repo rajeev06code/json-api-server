@@ -1,5 +1,5 @@
 
-    "products":[
+{   "products":[
         {
           "id":1,
           "img":"https://rajeev-faarms-login2.netlify.app/static/media/product1.df67044e.png",
@@ -85,4 +85,4 @@
           "discount":789
       }
       ]
-    
+}
